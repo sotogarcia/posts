@@ -67,7 +67,7 @@ Este modelo no solo mejora las relaciones internas, sino que también refuerza l
 Por todo lo expuesto, resulta fundamental implementar un protocolo que garantice que las profesoras:
 
 - Sean notificadas sobre cualquier acción que se realice con sus preguntas, ya sea publicación, modificación, uso o eliminación.
-- Dispongan de un canal claro y ágil para resolver cualquier duda o consulta relacionada con su trabajo en tiempo real.
+- Dispongan de un canal claro y ágil para resolver cualquier duda o consulta relacionada con su trabajo.
 
 Estas medidas no solo aseguran el respeto y el reconocimiento hacia las profesoras, sino que también promueven la confianza, el compromiso y la calidad en los contenidos generados. 
 
