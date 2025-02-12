@@ -82,7 +82,7 @@ Aunque no es una norma en sí, las sentencias del Tribunal Constitucional y del 
 
 ## Estatales
 
-Sí, en el Estado español, las actualizaciones de las leyes se publican en el **Boletín Oficial del Estado (BOE)**. Cada modificación incluye información detallada sobre:
+Las actualizaciones de las leyes se publican en el **Boletín Oficial del Estado (BOE)**. Cada modificación incluye información detallada sobre:
 
 1. La fecha de publicación en el BOE.
 2. El texto completo de la norma modificadora.
