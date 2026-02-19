@@ -53,3 +53,4 @@ Objetivo principal: **eliminar doble mantenimiento** (Odoo + Moodle) y asegurar 
     - [www.testsoposiciones.es](https://www.testsoposiciones.es)
 - **XML (export/import)**: formato usado para **mover preguntas** desde Odoo al banco de preguntas de Moodle.
 - **Actividad “URL” (Moodle)**: tipo de recurso que publica un **enlace** a un contenido externo (URL ≈ Dirección de Internet).
+- **SSO (Single Sign-On)**: inicio de sesión único entre plataformas. Aquí no existe, por lo que habría doble login.
