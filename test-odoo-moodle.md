@@ -33,7 +33,7 @@ Objetivo principal: **eliminar doble mantenimiento** (Odoo + Moodle) y asegurar 
 - **Doble inicio de sesión / experiencia “salto a externo”**:
     - No hay SSO entre plataformas: el alumno **tendría que iniciar sesión también** en la plataforma de tests.
     - No es posible “embeber” el test dentro de Moodle evitando ir a una página externa si esa página requiere login (sin desarrollo adicional).
-- **Restricciones de acceso por licencias/permisos**:
+- **Restricciones de acceso actuales**:
     - No todos los cursos/alumnos tendrían acceso a la plataforma de tests; en esos casos **no aplicaría**.
     - Si se intentara publicar sin login, aparece el riesgo de **acceso no autorizado** (“cualquiera con el enlace”).
 - **Integración a medida (si se quisiera conservar analítica en Moodle)**:
