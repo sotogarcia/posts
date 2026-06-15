@@ -51,4 +51,5 @@ Kagan, R. (2026, 10 de mayo). Checkmate in Iran. The Atlantic.
 ## Sobre el autor
 
 **Robert Kagan**
+
 Robert Kagan es colaborador de *The Atlantic*, investigador sénior en la Brookings Institution y autor, más recientemente, de *Rebellion: How Antiliberalism Is Tearing America Apart—Again*.
